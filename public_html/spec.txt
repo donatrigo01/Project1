@@ -1,0 +1,5 @@
+A feladat téája, miről fog szólni
+Hány aloldal lesz benne és ezekben mi található? (kb. 6 holdal)
+Milyen menü lesz?
+Vázlatos dizájn
+Futtatási körülmények, szoftverkövetelmények

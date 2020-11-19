@@ -3,3 +3,7 @@
 [1118/124602.928:ERROR:crash_report_database_win.cc(457)] unexpected header
 [1118/124613.405:ERROR:crash_report_database_win.cc(457)] unexpected header
 [1119/095533.229:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1119/100533.229:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1119/100533.229:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
+[1119/100533.230:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1119/100533.230:ERROR:crash_report_database_win.cc(455)] unexpected header

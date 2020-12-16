@@ -7,15 +7,15 @@ body {
         margin: 0px;
 }
 
-
-  img.menu1{
-      size: 50%;
+img.tört{
+      height: 600px ;
+      border: tan 5px solid;
 }
 
 h2{
     background: whitesmoke;
    border :slategray solid 3px;
-   margin-bottom: 5px;
+   margin-bottom: 25px;
    width: 250px;
    margin-left: auto;
    margin-right: auto;
@@ -35,6 +35,12 @@ p {
 #hatter{
     background-color: 
         #ffdc917f;
+}
+
+img.hadi{
+     height: 600px ;
+      border: tan 5px solid;
+      width: 900px;
 }
 
 

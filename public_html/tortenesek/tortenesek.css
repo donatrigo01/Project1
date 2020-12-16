@@ -1,4 +1,14 @@
 body{
-    font-family: 
+    font-family: sans-serif;
     background-image: url('hatter.jpg');
+}
+
+#hatter{
+    background-color: #ffffff7f;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
 }

@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    background-image: url('hatter.jpg');
+    margin: 25px;
+    background-size: 100%;
+}
+
+#hatter{
+    background-color: #ffffff7f;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+.kepkeret{
+    width: 375px;
+    text-align: center;
+    font-size: 75%;
+    padding: 0px 5px 5px;
+    margin-left: 10px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px gray; 
+    border: darkblue 2px solid;
+    font-style: italic;
+}

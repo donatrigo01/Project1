@@ -1,7 +1,7 @@
 body{
     font-family: sans-serif;
     background-image: url('hatter.jpg');
-   margin: 40px;
+    margin: 30px;
 }
 
 #hatter{
@@ -14,7 +14,7 @@ a{
     padding: 8px 16px;
 }
 .kepkeret{
-     width: 375px;
+    width: 375px;
     float: right;
     text-align: center;
     font-size: 75%;
@@ -25,5 +25,5 @@ a{
     box-shadow: 10px 10px 10px gray; 
     border: darkblue 2px solid;
     font-style: italic;
-    
+
 }

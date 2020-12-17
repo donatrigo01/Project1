@@ -4,7 +4,12 @@ body{
     margin: 25px;
     background-size: 100%;
 }
-
+h2{
+    color: #32305e;
+}
+h1{
+    color: #32305e;
+}
 #hatter{
     background-color: #ffffff7f;
 }

@@ -6,14 +6,19 @@ body{
 }
 h2{
     color: #32305e;
+    text-align: center;
 
 }
 h1{
     color: #32305e;
-  text-align: center;
+    text-align: center;
 }
 p{
-    color: #992b31;
+    color: black;
+}
+em{
+    font-size: 30px;
+    color: #32305e;
 }
 #hatter{
     background-color: #ffffff7f;

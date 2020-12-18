@@ -7,7 +7,7 @@ body{
 h2{
     color: #32305e;
     text-align: center;
-    border : black solid 3px;
+    border :  #006699 solid 3px;
 
 }
 h1{
@@ -15,7 +15,7 @@ h1{
     text-align: center;
 }
 p{
-    color: black;
+    color: #1e00ff;
     padding: 40px;
     
 }
@@ -37,7 +37,7 @@ a{
     float: right;
     text-align: center;
     font-size: 100%;
-    padding: 0px 5px 5px;
+    padding: 0px 0px 5px;
     margin-left: 10px;
     border-radius: 20px;
     overflow: hidden;
@@ -45,10 +45,20 @@ a{
     border: darkblue 2px solid;
     font-style: italic;
 }
-table{
-     margin-right: auto;
-     margin-left: auto;
-     text-align: center;
-    width: 50%;
-    border-collapse: collapse;
+
+table, th, td {
+    border: 2px solid  #006699;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
+th{
+    width: 40%;
+}
+td{
+    text-align: center;
+}
+caption{
+    font-size: 20px;
 }

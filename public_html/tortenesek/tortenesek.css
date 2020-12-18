@@ -44,5 +44,11 @@ a{
     box-shadow: 10px 10px 10px gray; 
     border: darkblue 2px solid;
     font-style: italic;
-
+}
+table{
+     margin-right: auto;
+     margin-left: auto;
+     text-align: center;
+    width: 50%;
+    border-collapse: collapse;
 }

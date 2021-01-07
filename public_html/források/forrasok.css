@@ -7,3 +7,19 @@ h1 {
     font-family:   cursive;
     font-size: 40px;
 }
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 6px;
+    border: blue 3px solid;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
+ 
+    

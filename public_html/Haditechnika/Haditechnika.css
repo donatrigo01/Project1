@@ -20,6 +20,11 @@ a{
     display: inline-block;
     padding: 8px 16px;
 }
+
+a:hover{
+    color: blue;
+}
+
 .kepkeret1{
     width: 265px;
     text-align: center;

@@ -8,7 +8,7 @@ h1 {
     font-size: 40px;
 }
 
-a{
+a.previous{
     text-decoration: none;
     display: inline-block;
     padding: 8px 6px;
@@ -16,10 +16,45 @@ a{
     margin: 5px;
     background-color: blue;
     color: white;
+    position: fixed;
 }
 
 a:hover{
     color: red;
 }
- 
-    
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: blue;
+}
+
+a.link1 {
+    float: left;
+     margin-left: 20px;
+     font-family:  monospace;
+}
+
+a.link2 {
+    float: right; 
+    margin-left: 500px;
+    margin-right: 20px;
+    font-family:  monospace;
+}
+img {
+    width: 450px;
+    border: 2px black solid;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+img.kep1 {
+    float: right;
+    margin-left: 1080px
+}
+
+img.kep2 {
+    float: left;
+    margin-right: 3200px;
+}
+

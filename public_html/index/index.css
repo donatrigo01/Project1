@@ -1,35 +1,35 @@
 body {
     font-family: sans-serif;
-	background-image: url('hatter.jpg');
-        text-align:center ;    
-        background-size: 115%;
-        padding: 0px;
-        margin: 0px;
+    background-image: url('hatter.jpg');
+    text-align:center ;    
+    background-size: 115%;
+    padding: 0px;
+    margin: 0px;
 }
 
 img.tört{
-      height: 600px ;
-      border: tan 5px solid;
+    height: 600px ;
+    border: tan 5px solid;
 }
 
 h2{
     background: whitesmoke;
-   border :slategray solid 3px;
-   margin-bottom: 25px;
-   width: 250px;
-   margin-left: auto;
-   margin-right: auto;
-   text-align: center;
+    border :slategray solid 3px;
+    margin-bottom: 25px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 p.story {
-     background: whitesmoke;
-   border :slategray solid 3px;
-   margin-bottom: 15px;
-   width: 1080px;
-   margin-left: auto;
-   margin-right: auto;
-   
+    background: whitesmoke;
+    border :slategray solid 3px;
+    margin-bottom: 15px;
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 #hatter{
@@ -38,9 +38,9 @@ p.story {
 }
 
 img.hadi{
-     height: 600px ;
-      border: tan 5px solid;
-      width: 900px;
+    height: 600px ;
+    border: tan 5px solid;
+    width: 900px;
 }
 
 a:hover {
@@ -64,7 +64,7 @@ a:link {
     border: 3px black solid;
     background-color: lemonchiffon ;
     width: 250px;
-     margin-left: auto;
-   margin-right: auto;
-   padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
 }

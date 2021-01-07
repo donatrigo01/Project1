@@ -46,3 +46,5 @@
 [0107/153953.470:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
 [0107/153953.471:ERROR:crash_report_database_win.cc(455)] unexpected header
 [0107/153953.471:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0107/154453.470:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0107/155953.470:ERROR:crash_report_database_win.cc(455)] unexpected header

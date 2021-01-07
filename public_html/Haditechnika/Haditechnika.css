@@ -9,6 +9,7 @@ h2{
 }
 h1{
     color: #32305e;
+    text-align: center;
 }
 #hatter{
     background-color: #ffffff7f;
@@ -19,17 +20,70 @@ a{
     display: inline-block;
     padding: 8px 16px;
 }
-.kepkeret{
-    width: 375px;
+.kepkeret1{
+    width: 265px;
     text-align: center;
-    font-size: 75%;
-    padding: 0px 5px 5px;
-    margin-left: 5px;
+    padding: 0px 0px 0px;
+    margin-left: 15px;
     border-radius: 25px;
     overflow: hidden;
     box-shadow: 10px 10px 10px grey; 
     border: darkblue 2px solid;
-    font-style: italic;
+}
+
+.kepkeret2{
+    width: 275px;
+    text-align: center;
+    padding: 0px 0px 0px;
+    margin-left: 15px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px grey; 
+    border: darkblue 2px solid;
+}
+
+.kepkeret3{
+    width: 380px;
+    text-align: center;
+    padding: 0px 0px 0px;
+    margin-left: 15px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px grey; 
+    border: darkblue 2px solid;
+}
+
+.kepkeret4{
+    width: 270px;
+    text-align: center;
+    padding: 0px 0px 0px;
+    margin-left: 15px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px grey; 
+    border: darkblue 2px solid;
+}
+
+.kepkeret5{
+    width: 260px;
+    text-align: center;
+    padding: 0px 0px 0px;
+    margin-left: 15px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px grey; 
+    border: darkblue 2px solid;
+}
+
+.kepkeret6{
+    width: 380px;
+    text-align: center;
+    padding: 0px 0px 0px;
+    margin-left: 15px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px grey; 
+    border: darkblue 2px solid;
 }
 
 p{

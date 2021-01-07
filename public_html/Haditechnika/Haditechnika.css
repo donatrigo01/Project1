@@ -31,3 +31,7 @@ a{
     border: darkblue 2px solid;
     font-style: italic;
 }
+
+p{
+   font-size: 20px;
+}

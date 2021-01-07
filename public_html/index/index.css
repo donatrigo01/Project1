@@ -22,7 +22,7 @@ h2{
    text-align: center;
 }
 
-p {
+p.story {
      background: whitesmoke;
    border :slategray solid 3px;
    margin-bottom: 15px;
@@ -50,7 +50,7 @@ a:hover {
 #forrasok {
     background-color: white;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     font-size: 20px;
     border: 5px gray solid;
 }
@@ -58,4 +58,8 @@ a:hover {
 #forrasok:hover {
     opacity: 0.75;
     
+}
+
+p.forras {
+    color: black;
 }

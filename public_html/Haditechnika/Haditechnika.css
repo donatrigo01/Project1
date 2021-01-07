@@ -21,6 +21,8 @@ a{
     padding: 8px 6px;
     border: blue 3px solid;
     margin: 5px;
+    background-color: blue;
+    color: white;
 }
 
 a:hover{

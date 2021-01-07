@@ -6,14 +6,22 @@ body{
 }
 h2{
     color: #32305e;
+    text-align: center;
+    border :  #006699 solid 3px;
 
 }
 h1{
     color: #32305e;
-  text-align: center;
+    text-align: center;
 }
 p{
-    color: #992b31;
+    color: #1e00ff;
+    padding: 40px;
+    
+}
+em{
+    font-size: 30px;
+    color: #32305e;
 }
 #hatter{
     background-color: #ffffff7f;
@@ -29,12 +37,28 @@ a{
     float: right;
     text-align: center;
     font-size: 100%;
-    padding: 0px 5px 5px;
+    padding: 0px 0px 5px;
     margin-left: 10px;
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 10px 10px 10px gray; 
     border: darkblue 2px solid;
     font-style: italic;
+}
 
+table, th, td {
+    border: 2px solid  #006699;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
+th{
+    width: 40%;
+}
+td{
+    text-align: center;
+}
+caption{
+    font-size: 20px;
 }

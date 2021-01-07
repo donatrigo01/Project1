@@ -47,4 +47,15 @@ a:hover {
     opacity: 0.70;
 }
 
-  
+#forrasok {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    border: 5px gray solid;
+}
+
+#forrasok:hover {
+    opacity: 0.75;
+    
+}

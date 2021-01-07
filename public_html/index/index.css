@@ -55,11 +55,16 @@ a:hover {
     border: 5px gray solid;
 }
 
-#forrasok:hover {
-    opacity: 0.75;
-    
+
+a:link {
+    text-decoration: none;
 }
 
-p.forras {
-    color: black;
+#belsfor {
+    border: 3px black solid;
+    background-color: lemonchiffon ;
+    width: 250px;
+     margin-left: auto;
+   margin-right: auto;
+   padding-top: 10px;
 }

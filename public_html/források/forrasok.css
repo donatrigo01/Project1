@@ -21,6 +21,12 @@ a.previous{
 
 a:hover{
     color: red;
+    transition-duration: 0.75s;
+}
+
+a:active {
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
 }
 
 a{
@@ -31,8 +37,8 @@ a{
 
 a.link1 {
     float: left;
-     margin-left: 20px;
-     font-family:  monospace;
+    margin-left: 20px;
+    font-family:  monospace;
 }
 
 a.link2 {
